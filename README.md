@@ -34,4 +34,4 @@ será exibido no display e também na matriz 5x5 WS2812.
 
 5-Certifique-se que esta com todas configurações necessárias para o funcionamento do código.
 
-VÍDEO DA PLACA : https://youtu.be/2sGzBXb6Cpg?si=pRG2ZaaBqgXWX02u
+VÍDEO DA PLACA : https://youtu.be/e4lsGJ-1-VY
